@@ -18,7 +18,18 @@ Something to get started with and build on.
 
 <br>
 
+## Demo
+
+<br>
+<img src="https://github.com/vbookshelf/Maiya-ChatGPT-Experiments/blob/main/images/app-demo.gif" height="400"></img>
+<i>Chat demo</i><br>
+<br>
+
+<br>
+
 ## Feedback
 
 Please feel free to share your thoughts in the discussion forum:<br>
 https://github.com/vbookshelf/JackGPT-Simple-Javascript-Chatbot/discussions/1
+
+<br>
