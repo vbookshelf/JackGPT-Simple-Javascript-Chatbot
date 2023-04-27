@@ -15,3 +15,10 @@ Something to get started with and build on.
 - The chat can be saved as a csv file.
 - A saved chat can be loaded.
 - A simple desgn using html, css and Javascript. This code can be easily modified - change the bot's personality, change the bot's name, change the user name, change the image and adjust the API configuration.
+
+<br>
+
+## Feedback
+
+Please feel free to share your thoughts in the discussion forum:<br>
+https://github.com/vbookshelf/JackGPT-Simple-Javascript-Chatbot/discussions/1
