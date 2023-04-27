@@ -1,5 +1,5 @@
 # JackGPT - Simple Javascript Chatbot
-Emulates captain Jack Sparrow. A simple desktop chat app to experiment with the OpenAI API.<br>
+Emulates captain Jack Sparrow. A simple desktop chat app that you can use to experiment with the OpenAI API.<br>
 Something to get started with and build on.
 
 <br>
