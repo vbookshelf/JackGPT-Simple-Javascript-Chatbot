@@ -9,7 +9,7 @@ Something to get started with and build on.
 
 ## Features
 
-- Runs in the browser on the desktop. No need for a server because the API code is in Javascript. To run the app simply download the prject folder, add your OpenAi API key in the chatgpt-config.js file, then double click the index.html file. The app will open in your browser.
+- Runs in the browser, on the desktop. No need for a server because the API code is in Javascript. To run the app simply download the prject folder, add your OpenAI API key in the chatgpt-config.js file, then double click the index.html file. The app will open in your browser.
 - The chatbot has context memory.
 - The configuration can be changed in the chatgpt-config.js file.
 - The chat can be saved as a csv file.
