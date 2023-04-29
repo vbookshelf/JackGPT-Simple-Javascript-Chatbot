@@ -33,3 +33,10 @@ Please feel free to share your thoughts in the discussion forum:<br>
 https://github.com/vbookshelf/JackGPT-Simple-Javascript-Chatbot/discussions/1
 
 <br>
+
+## Resources
+Andrew Ng course:<br>
+ChatGPT Prompt Engineering for Developers<br>
+https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+
+<br>
