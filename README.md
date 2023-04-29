@@ -39,4 +39,6 @@ Andrew Ng course:<br>
 ChatGPT Prompt Engineering for Developers<br>
 https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 
+Maiya ChatGPT Experiments<br>
+https://github.com/vbookshelf/Maiya-ChatGPT-Experiments
 <br>
